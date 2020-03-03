@@ -25,5 +25,8 @@ public class Principal {
         l[1].folhear(100);
         l[1].avarcarPag();
         System.out.println(l[1].detalhes());
+
+
+        
     }
 }
