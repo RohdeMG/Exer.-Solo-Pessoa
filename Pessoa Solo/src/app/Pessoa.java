@@ -15,12 +15,11 @@ public class Pessoa {
 
 
     public void fazerAniver(){
-
-
+        this.idade++;
     }
 
 
-    
+
     public String getNome() {
         return this.nome;
     }
